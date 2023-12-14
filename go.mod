@@ -181,7 +181,7 @@ replace (
 	github.com/99designs/keyring => github.com/cosmos/keyring v1.2.0
 
 	// Use special SDK release with support for both ICS and LSM
-	github.com/cosmos/cosmos-sdk => github.com/cosmos/cosmos-sdk v0.45.16-ics-lsm
+	// github.com/cosmos/cosmos-sdk => github.com/cosmos/cosmos-sdk v0.45.16-ics-lsm
 
 	// Use special ICS release with support for LSM
 	github.com/cosmos/interchain-security/v2 => github.com/cosmos/interchain-security/v2 v2.4.0-lsm
@@ -201,3 +201,5 @@ replace (
 	// the following version across all dependencies.
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
+
+replace github.com/cosmos/cosmos-sdk => github.com/cosmos/cosmos-sdk v0.45.17-0.20231016092446-4f89b578c204
