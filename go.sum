@@ -396,8 +396,6 @@ github.com/cosmos/btcutil v1.0.5 h1:t+ZFcX77LpKtDBhjucvnOH8C2l2ioGsBNEQ3jef8xFk=
 github.com/cosmos/btcutil v1.0.5/go.mod h1:IyB7iuqZMJlthe2tkIFL33xPyzbFYP0XVdS8P5lUPis=
 github.com/cosmos/cosmos-proto v1.0.0-beta.4 h1:aEL7tU/rLOmxZQ9z4i7mzxcLbSCY48OdY7lIWTLG7oU=
 github.com/cosmos/cosmos-proto v1.0.0-beta.4/go.mod h1:oeB+FyVzG3XrQJbJng0EnV8Vljfk9XvTIpGILNU/9Co=
-github.com/cosmos/cosmos-sdk v0.47.10-ics-lsm h1:nW5xAl4SQchNExAkcPPTPpgu6CnEHc75g4JIKkVNgAI=
-github.com/cosmos/cosmos-sdk v0.47.10-ics-lsm/go.mod h1:7lymTBqaezjxtEnVMwBNx0rXcOMoP49NUpYugIrjyus=
 github.com/cosmos/go-bip39 v0.0.0-20180819234021-555e2067c45d/go.mod h1:tSxLoYXyBmiFeKpvmq4dzayMdCjCnu8uqmCysIGBT2Y=
 github.com/cosmos/go-bip39 v1.0.0 h1:pcomnQdrdH22njcAatO0yWojsUnCO3y2tNoV1cb6hHY=
 github.com/cosmos/go-bip39 v1.0.0/go.mod h1:RNJv0H/pOIVgxw6KS7QeX2a0Uo0aKUlfhZ4xuwvCdJw=
@@ -408,8 +406,6 @@ github.com/cosmos/gogoproto v1.4.10 h1:QH/yT8X+c0F4ZDacDv3z+xE3WU1P1Z3wQoLMBRJoK
 github.com/cosmos/gogoproto v1.4.10/go.mod h1:3aAZzeRWpAwr+SS/LLkICX2/kDFyaYVzckBDzygIxek=
 github.com/cosmos/iavl v0.20.1 h1:rM1kqeG3/HBT85vsZdoSNsehciqUQPWrR4BYmqE2+zg=
 github.com/cosmos/iavl v0.20.1/go.mod h1:WO7FyvaZJoH65+HFOsDir7xU9FWk2w9cHXNW1XHcl7A=
-github.com/cosmos/ibc-apps/middleware/packet-forward-middleware/v7 v7.1.2 h1:6zjj+yIpMbCTRI2eJ2fXuflElENs3mrUSLH/TSWL8fk=
-github.com/cosmos/ibc-apps/middleware/packet-forward-middleware/v7 v7.1.2/go.mod h1:UvDmcGIWJPIytq+Q78/ff5NTOsuX/7IrNgEugTW5i0s=
 github.com/cosmos/ibc-apps/middleware/packet-forward-middleware/v7 v7.1.3-0.20240228213828-cce7f56d000b h1:VwhHRRIPdMshBMb2TP7xrkY4Ee8CJWsHZvucYeJ56no=
 github.com/cosmos/ibc-apps/middleware/packet-forward-middleware/v7 v7.1.3-0.20240228213828-cce7f56d000b/go.mod h1:UvDmcGIWJPIytq+Q78/ff5NTOsuX/7IrNgEugTW5i0s=
 github.com/cosmos/ibc-go/v7 v7.3.2 h1:FeUDcBX7VYY0e0iRmcVkPPUjYfAqIc//QuHXo8JHz9c=
@@ -971,6 +967,8 @@ github.com/modern-go/reflect2 v1.0.1/go.mod h1:bx2lNnkwVCuqBIxFjflWJWanXIb3Rllmb
 github.com/modern-go/reflect2 v1.0.2 h1:xBagoLtFs94CBntxluKeaWgTMpvLxC4ur3nMaC9Gz0M=
 github.com/modern-go/reflect2 v1.0.2/go.mod h1:yWuevngMOJpCy52FWWMvUC8ws7m/LJsjYzDa0/r8luk=
 github.com/modocache/gover v0.0.0-20171022184752-b58185e213c5/go.mod h1:caMODM3PzxT8aQXRPkAt8xlV/e7d7w8GM5g0fa5F0D8=
+github.com/msalopek/cosmos-sdk v0.47.10-ics-lsm-streaming h1:vTuLuHHpGFF7in1SwnncMHmvlIQEdIqMiWvokVeQcDY=
+github.com/msalopek/cosmos-sdk v0.47.10-ics-lsm-streaming/go.mod h1:7lymTBqaezjxtEnVMwBNx0rXcOMoP49NUpYugIrjyus=
 github.com/mschoch/smat v0.0.0-20160514031455-90eadee771ae/go.mod h1:qAyveg+e4CE+eKJXWVjKXM4ck2QobLqTDytGJbLLhJg=
 github.com/mtibben/percent v0.2.1 h1:5gssi8Nqo8QU/r2pynCm+hBQHpkB/uNK7BJCFogWdzs=
 github.com/mtibben/percent v0.2.1/go.mod h1:KG9uO+SZkUp+VkRHsCdYQV3XSZrrSpR3O9ibNBTZrns=
