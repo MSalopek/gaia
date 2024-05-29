@@ -40,7 +40,7 @@ while [ ${CNT} -lt $ITER ]; do
   curr_version=$(curl -s $NODEADDR:1317/cosmos/base/tendermint/v1beta1/node_info | jq -r '.application_version.version')
   
 
-  # tail v7.out
+  tail log.out
 
   if [[ $started = "false" && $curr_version != "" && $curr_version != "null" ]]; then
     started=true
