@@ -202,9 +202,11 @@ ci-release:
 		-v /var/run/docker.sock:/var/run/docker.sock \
 		-v `pwd`:/go/src/gaiad \
 		-w /go/src/gaiad \
+		--platform=linux/amd64 \
 		$(GORELEASER_IMAGE) \
 		release \
 		--release-notes ./RELEASE_NOTES.md \
+		--debug \
 		--clean
 else
 ci-release:
