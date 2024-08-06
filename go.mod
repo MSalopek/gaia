@@ -254,3 +254,5 @@ replace (
 )
 
 replace github.com/CosmWasm/wasmd => github.com/informalsystems/wasmd v0.45.0-lsm
+
+replace github.com/cosmos/cosmos-sdk => github.com/MSalopek/cosmos-sdk v0.47.6-0.20240806162140-04943da5f704
